@@ -1,0 +1,2 @@
+Class-Path: ./src/
+Main-Class: Main
