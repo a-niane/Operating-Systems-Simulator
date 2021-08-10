@@ -349,7 +349,7 @@ public class Main
         ImageIcon on = new ImageIcon("resources/On.png");
         ImageIcon off = new ImageIcon("resources/Off.png");
 
-        label = new JLabel("141OS Simulation (Astou Niane [UCInetID: aniane])       ");
+        label = new JLabel("141OS Simulation        ");
         disk1Label = new JLabel("Disk 1: Now Available"); 
         disk2Label = new JLabel("Disk 2: Now Available");
         print1Label = new JLabel("Printer 1: Now Available");
